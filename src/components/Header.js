@@ -1,33 +1,28 @@
 import React from "react";
+// import "../components/css/Header.css";
 
 function Header() {
   return (
-    <div className="container-fluid">
-      <div className="nav nav-expand-lg nav-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <div className="container-fluid">
         <div className="container-md">
-          <a className="nav-brand" href="/About">Courtney Fox</a>
-          <ul className="nav justify-content-end">
-            <li className="nav-item">
-              <a className="nav-link" href="/About">About</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="/Portfolio">Portfolio</a>
-            </li>
-            <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Additional Links
-              </a>
-              <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a className="dropdown-item" href="https://github.com/CFox2019">GitHub</a></li>
-                <li><a className="dropdown-item" href="https://www.linkedin.com/in/cdfox/">LinkedIn</a></li>
-                <li><hr className="dropdown-divider"></hr></li>
-                  <li><a className="dropdown-item" href="./assets/courtney-resume.pdf">Resume</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div>
+          <a className="navbar-brand" href="#">Courtney Fox</a>
+          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span className="navbar-toggler-icon"></span>
+          </button>
+          <div className="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+            <ul className="navbar-nav">
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="/about">About</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/portfolio">Portfolio</a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
+    </nav>
   )
 }
 

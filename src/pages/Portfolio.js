@@ -32,19 +32,19 @@ function Portfolio() {
             </div>
           </div>
           <a href="https://dragonfly-horoscopes.herokuapp.com/">
-            <img src="./assets/dragonfly-horoscopes.png" width="350" class="img-responsive image-thumbnail" id="shop-your-pantry-img" alt="Shop Your Pantry" />
+            <img src="./assets/dragonfly-horoscopes.png" width="350" className="img-responsive image-thumbnail" id="shop-your-pantry-img" alt="Shop Your Pantry" />
           </a>
         </Col>
       </Row>
       <Row>
         <Col>
           <h4>Work Day Scheduler</h4>
-          <div class="links">
+          <div className="links">
             <a href="https://cfox2019.github.io/Work-Day-Scheduler/">Deployed Link |</a>
             <a href="https://github.com/CFox2019/Work-Day-Scheduler">GitHub Repository</a>
           </div>
           <a href="https://cfox2019.github.io/Work-Day-Scheduler/">
-            <img src="./assets/work-day-scheduler.png" width="350" class="img-responsive image-thumbnail" id="work-day-scheduler-img" alt="Work Day Scheduler" />
+            <img src="./assets/work-day-scheduler.png" width="350" className="img-responsive image-thumbnail" id="work-day-scheduler-img" alt="Work Day Scheduler" />
           </a>
         </Col>
         <Col>
@@ -54,7 +54,7 @@ function Portfolio() {
             <a href="https://github.com/CFox2019/Weather-Dashboard">GitHub Repository</a>
           </div>
           <a href="https://cfox2019.github.io/Weather-Dashboard/">
-            <img src="./assets/weather-dashboard.png" width="350" class="img-responsive image-thumbnail" id="weather-dashboard-img" alt="Weather Dashboard" />
+            <img src="./assets/weather-dashboard.png" width="350" className="img-responsive image-thumbnail" id="weather-dashboard-img" alt="Weather Dashboard" />
           </a>
         </Col>
       </Row>
