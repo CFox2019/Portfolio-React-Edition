@@ -1,9 +1,10 @@
 
 import React from "react";
+import './css/Image.css';
 
 function Image() {
   return (
-    <img src="public/assets/image.jpeg" alt="profile" />
+    <img src="./assets/image.jpeg" alt="profile" className="img-thumbnail rounded" />
   )
 }
 
