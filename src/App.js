@@ -10,7 +10,7 @@ function App() {
     return (
       <Router>
         <Header />
-        <div className="container">
+        <div className="container main-container">
           <Switch>
             <Route exact path="/" component={About} />
             <Route exact path="/about" component={About} />

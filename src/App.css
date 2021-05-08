@@ -1,3 +1,7 @@
 body {
   background-color: #E0B589;
 }
+
+.main-container {
+  margin-bottom: 150px;
+}
