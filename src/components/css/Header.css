@@ -1,4 +1,22 @@
-.navbar-collapse {
-  display: flex !important; // stylelint-disable-line declaration-no-important
-  flex-basis: auto;
+.header-nav {
+  background-color: #EFE1CE;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.navbar-brand-name {
+  color: #363945;
+  font-size: xx-large;
+  border: none;
+  background-color: #EFE1CE;
+}
+
+.navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  color: #363945;
 }

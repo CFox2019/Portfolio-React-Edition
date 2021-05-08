@@ -1,13 +1,15 @@
 import React from 'react';
 import Row from "../components/Row";
-import Col from "../components/Col";
+import Container from "../components/Container";
 import Title from "../components/Title";
 import AboutMe from "../components/AboutMe";
 import Links from "../components/Links";
+import '../components/css/AboutMe.css';
+import '../components/css/About.css';
 
 function About() {
   return (
-    <Col>
+    <Container>
       <Row>
         <Title />
       </Row>
@@ -17,7 +19,7 @@ function About() {
       <Row>
         <Links />
       </Row>
-    </Col>
+    </Container>
   )
 }
 

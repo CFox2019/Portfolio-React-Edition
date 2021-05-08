@@ -4,7 +4,7 @@ import './css/Image.css';
 
 function Image() {
   return (
-    <img src="./assets/image.jpeg" alt="profile" className="img-thumbnail rounded" />
+    <img src="./assets/image.jpeg" alt="profile" className="img-thumbnail rounded about-me-img" />
   )
 }
 
