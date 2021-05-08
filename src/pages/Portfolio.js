@@ -1,19 +1,23 @@
 import React from 'react';
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Title from '../components/Title';
 import Project from '../components/Project';
+import "../components/css/Project.css";
 
 function Portfolio() {
   return (
     <>
       <Row>
         <Col>
-          <h1>Portfolio</h1>
+          <Title
+            pageTitle="Portfolio"
+          />
         </Col>
       </Row>
       <Row>
         <Col>
-        <Project
+          <Project
             title="Shop Your Pantry"
             deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
             githubLink="https://github.com/CFox2019/shopYourPantry"

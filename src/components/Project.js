@@ -3,7 +3,7 @@ import React from "react";
 function Project(props) {
   const imgSrc = `./assets/${props.imgName}.png`
   return (
-    <>
+    <div className="project-container">
       <h4>{props.title}</h4>
       <div className="links">
         <a href={props.deployedLink}>Deployed Link |</a>
@@ -12,7 +12,7 @@ function Project(props) {
       <a href={props.deployedLink}>
         <img src={imgSrc} width="350" className="img-responsive image-thumbnail" id="weather-dashboard-img" alt="Weather Dashboard" />
       </a>
-    </>
+    </div>
   )
 }
 

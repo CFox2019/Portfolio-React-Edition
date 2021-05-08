@@ -5,13 +5,14 @@ import Title from "../components/Title";
 import AboutMe from "../components/AboutMe";
 import Links from "../components/Links";
 import '../components/css/AboutMe.css';
-import '../components/css/About.css';
 
 function About() {
   return (
     <Container>
       <Row>
-        <Title />
+        <Title
+          pageTitle="About Me"
+         />
       </Row>
       <Row>
         <AboutMe />
