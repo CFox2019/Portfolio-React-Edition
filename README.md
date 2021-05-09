@@ -6,6 +6,7 @@
 
 * [Description](#description)
 * [Screenshots](#screenshots)
+* [Links](#links)
 * [Questions](#questions)
 * [License](#license)
 
@@ -14,8 +15,15 @@ In my portfolio, you can find the 'About Me' page is the first page you will see
 
 ### Screenshots
 
+![Portfolio-About Me](public/assets/portfolio.png)
+![Portfolio](public/assets/portfolio2.png)
+
+## Links
+
+* GitHub: [CFox2019](https://github.com/CFox2019)
+* GitHub:  [Portfolio-React-Edition](https://github.com/CFox2019/Portfolio-React-Edition)
+* LinkedIn: [cdfox](https://www.linkedin.com/in/cdfox/)
 ## Questions
-GitHub: [CFox2019](https://github.com/CFox2019)
 
 Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions.
 

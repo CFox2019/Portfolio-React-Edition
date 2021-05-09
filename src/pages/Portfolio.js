@@ -9,14 +9,12 @@ function Portfolio() {
   return (
     <>
       <Row>
-        <Col>
           <Title
             pageTitle="Portfolio"
           />
-        </Col>
       </Row>
       <Row>
-        <Col>
+        <Col size="md-6">
           <Project
             title="Shop Your Pantry"
             deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
@@ -24,7 +22,7 @@ function Portfolio() {
             imgName="shop-your-pantry"
           />
         </Col>
-        <Col>
+        <Col size="md-6">
           <Project
             title="Dragonfly Horoscopes"
             deployedLink="https://dragonfly-horoscopes.herokuapp.com/"
@@ -34,7 +32,7 @@ function Portfolio() {
         </Col>
       </Row>
       <Row>
-        <Col>
+        <Col size="md-6">
           <Project
               title="Work Day Schedule"
               deployedLink="https://cfox2019.github.io/Work-Day-Scheduler/"
@@ -42,7 +40,7 @@ function Portfolio() {
               imgName="work-day-scheduler"
           />
         </Col>
-        <Col>
+        <Col size="md-6">
           <Project
               title="Weather Dashboard"
               deployedLink="https://cfox2019.github.io/Weather-Dashboard/"
