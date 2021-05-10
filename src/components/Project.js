@@ -10,7 +10,7 @@ function Project(props) {
         <a href={props.githubLink}>GitHub Repository</a>
       </div>
       <a href={props.deployedLink}>
-        <img src={imgSrc} width="350" className="img-responsive image-thumbnail" id="weather-dashboard-img" alt="Weather Dashboard" />
+        <img src={imgSrc} width="350" className="img-responsive image-thumbnail" alt="Project" />
       </a>
     </div>
   )

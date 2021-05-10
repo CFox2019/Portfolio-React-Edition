@@ -49,6 +49,24 @@ function Portfolio() {
           />
         </Col>
       </Row>
+      <Row>
+        <Col size="md-6">
+          <Project
+              title="Tech Blog"
+              deployedLink="https://the-tech-blog.herokuapp.com/"
+              githubLink="https://github.com/CFox2019/The-Tech-Blog"
+              imgName="the-tech-blog"
+          />
+        </Col>
+        <Col size="md-6">
+          <Project
+              title="Fitness Tracker"
+              deployedLink=" https://agile-journey-60871.herokuapp.com/"
+              githubLink="https://github.com/CFox2019/Fitness-Tracker"
+              imgName="fitness-tracker"
+          />
+        </Col>
+      </Row>
     </>
   )
 }
