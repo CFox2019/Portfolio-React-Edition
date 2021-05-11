@@ -23,6 +23,14 @@ In my portfolio, you can find the 'About Me' page is the first page you will see
 * GitHub: [CFox2019](https://github.com/CFox2019)
 * GitHub:  [Portfolio-React-Edition](https://github.com/CFox2019/Portfolio-React-Edition)
 * LinkedIn: [cdfox](https://www.linkedin.com/in/cdfox/)
+
+## Installation
+
+run 'npm i' in the command line
+
+## Usage
+
+run 'npm start' in the command line
 ## Questions
 
 Email me at [courtney.fox@me.com](courtney.fox@me.com) with additional questions.
