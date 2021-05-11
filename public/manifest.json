@@ -1,6 +1,6 @@
 {
-  "short_name": "Portfolio",
-  "name": "Portfolio-React-Edition",
+  "short_name": "portfolio",
+  "name": "portfolio-react-edition",
   "icons": [
     {
       "src": "src/assets/image.jpeg",
