@@ -1,13 +1,13 @@
 import React from "react";
 import './css/AboutMe.css';
-import Image from "../components/Image";
 import Col from "../components/Col";
+import me from "../assets/image.jpeg"
 
 function AboutMe() {
   return (
       <>
         <Col size="md-3" className="about-me-img-col">
-          <Image />
+          <img src={me} alt="profile" className="img-thumbnail rounded about-me-img" />
         </Col>
         <Col size="md-9" className="about-me-p">
           I’m an experienced leader turned software developer returning

@@ -4,6 +4,12 @@ import Col from "../components/Col";
 import Title from '../components/Title';
 import Project from '../components/Project';
 import "../components/css/Project.css";
+import fitnessTracker from "../assets/fitness-tracker.png";
+import shopYourPantry from "../assets/shop-your-pantry.png";
+import dragonflyHoroscopes from "../assets/dragonfly-horoscopes.png";
+import workDayScheduler from "../assets/work-day-scheduler.png";
+import weatherDashboard from "../assets/weather-dashboard.png";
+import theTechBlog from "../assets/the-tech-blog.png";
 
 function Portfolio() {
   return (
@@ -19,7 +25,7 @@ function Portfolio() {
             title="Shop Your Pantry"
             deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
             githubLink="https://github.com/CFox2019/shopYourPantry"
-            imgName="shop-your-pantry"
+            img={shopYourPantry}
           />
         </Col>
         <Col size="md-6">
@@ -27,7 +33,7 @@ function Portfolio() {
             title="Dragonfly Horoscopes"
             deployedLink="https://dragonfly-horoscopes.herokuapp.com/"
             githubLink="https://github.com/CFox2019/Dragonfly-Horoscopes"
-            imgName="dragonfly-horoscopes"
+            img={dragonflyHoroscopes}
           />
         </Col>
       </Row>
@@ -37,7 +43,7 @@ function Portfolio() {
               title="Work Day Schedule"
               deployedLink="https://cfox2019.github.io/Work-Day-Scheduler/"
               githubLink="https://github.com/CFox2019/Work-Day-Scheduler"
-              imgName="work-day-scheduler"
+              img={workDayScheduler}
           />
         </Col>
         <Col size="md-6">
@@ -45,7 +51,7 @@ function Portfolio() {
               title="Weather Dashboard"
               deployedLink="https://cfox2019.github.io/Weather-Dashboard/"
               githubLink="https://github.com/CFox2019/Weather-Dashboard"
-              imgName="weather-dashboard"
+              img={weatherDashboard}
           />
         </Col>
       </Row>
@@ -55,7 +61,7 @@ function Portfolio() {
               title="Tech Blog"
               deployedLink="https://the-tech-blog.herokuapp.com/"
               githubLink="https://github.com/CFox2019/The-Tech-Blog"
-              imgName="the-tech-blog"
+              img={theTechBlog}
           />
         </Col>
         <Col size="md-6">
@@ -63,7 +69,7 @@ function Portfolio() {
               title="Fitness Tracker"
               deployedLink=" https://agile-journey-60871.herokuapp.com/"
               githubLink="https://github.com/CFox2019/Fitness-Tracker"
-              imgName="fitness-tracker"
+              img={fitnessTracker}
           />
         </Col>
       </Row>

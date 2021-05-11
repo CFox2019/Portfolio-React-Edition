@@ -10,7 +10,7 @@
   float: right;
 }
 
-about-me-a,
+.about-me-a,
 a,
 a:hover {
   color: #363945;
@@ -21,3 +21,11 @@ a:hover {
   margin-top: 20px;
 }
 
+.about-me-a a,
+a:hover {
+  color: #e5cace;
+}
+
+.about-me-img {
+  width: 200px;
+}

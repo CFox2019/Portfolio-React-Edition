@@ -12,7 +12,7 @@ function About() {
       <Row>
         <Title
           pageTitle="About Me"
-         />
+        />
       </Row>
       <Row>
         <AboutMe />
