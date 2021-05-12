@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "../components/css/Header.css";
 
 function Header() {
@@ -8,8 +9,8 @@ function Header() {
         <div className="container-md">
           <button className="navbar-brand-name" href="#">Courtney Fox</button>
             <div className="ml-auto navbar-nav navbar-nav-links">
-              <a className="nav-link active" aria-current="page" href="/">About</a>
-              <a className="nav-link" href="/portfolio">Portfolio</a>
+              <Link className="nav-link active" aria-current="page" to="/">About</Link>
+              <Link className="nav-link" to="/portfolio">Portfolio</Link>
             </div>
         </div>
       </div>
