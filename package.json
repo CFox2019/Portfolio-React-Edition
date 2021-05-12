@@ -14,7 +14,9 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1",
-    "webpack": "^4.44.2"
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -42,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://CFox2019.github.io"
+  "homepage": "https://CFox2019.github.io/Portfolio-React-Edition/"
 }
