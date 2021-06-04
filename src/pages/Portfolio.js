@@ -4,7 +4,7 @@ import Col from "../components/Col";
 import Title from '../components/Title';
 import Project from '../components/Project';
 import "../components/css/Project.css";
-import fitnessTracker from "../assets/fitness-tracker.png";
+import fitConnect from "../assets/fit-connect.png";
 import shopYourPantry from "../assets/shop-your-pantry.png";
 import dragonflyHoroscopes from "../assets/dragonfly-horoscopes.png";
 import workDayScheduler from "../assets/work-day-scheduler.png";
@@ -22,10 +22,10 @@ function Portfolio() {
       <Row>
         <Col size="md-6">
           <Project
-            title="Shop Your Pantry"
-            deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
-            githubLink="https://github.com/CFox2019/shopYourPantry"
-            img={shopYourPantry}
+            title="Fit-Connect"
+            deployedLink="https://shrouded-shore-55489.herokuapp.com/"
+            githubLink="https://github.com/ayejayhicks/fit-connect"
+            img={fitConnect}
           />
         </Col>
         <Col size="md-6">
@@ -40,12 +40,22 @@ function Portfolio() {
       <Row>
         <Col size="md-6">
           <Project
+              title="Shop Your Pantry"
+              deployedLink="https://caitie-gorham.github.io/shopYourPantry/"
+              githubLink="https://github.com/CFox2019/shopYourPantry"
+              img={shopYourPantry}
+          />
+        </Col>
+        <Col size="md-6">
+          <Project
               title="Work Day Schedule"
               deployedLink="https://cfox2019.github.io/Work-Day-Scheduler/"
               githubLink="https://github.com/CFox2019/Work-Day-Scheduler"
               img={workDayScheduler}
           />
         </Col>
+      </Row>
+      <Row>
         <Col size="md-6">
           <Project
               title="Weather Dashboard"
@@ -54,22 +64,12 @@ function Portfolio() {
               img={weatherDashboard}
           />
         </Col>
-      </Row>
-      <Row>
         <Col size="md-6">
           <Project
               title="Tech Blog"
               deployedLink="https://the-tech-blog.herokuapp.com/"
               githubLink="https://github.com/CFox2019/The-Tech-Blog"
               img={theTechBlog}
-          />
-        </Col>
-        <Col size="md-6">
-          <Project
-              title="Fitness Tracker"
-              deployedLink=" https://agile-journey-60871.herokuapp.com/"
-              githubLink="https://github.com/CFox2019/Fitness-Tracker"
-              img={fitnessTracker}
           />
         </Col>
       </Row>

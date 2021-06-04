@@ -1,6 +1,6 @@
 import React from "react";
 import "../components/css/AboutMe.css";
-import resume from "../assets/courtney-resume.pdf";
+import resume from "../assets/courtney-resume-updated.pdf";
 
 function Links() {
   return(
