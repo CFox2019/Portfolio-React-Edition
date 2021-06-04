@@ -10,7 +10,7 @@ function AboutMe() {
           <img src={me} alt="profile" className="img-thumbnail rounded about-me-img" />
         </Col>
         <Col size="md-9" className="about-me-p">
-          I’m an experienced leader turned web developer returning
+          I’m an experienced leader turned front-end web engineer returning
           to the workforce after pausing my career to stay at home with
           my family. I’ve spent the last few years volunteering at my
           children’s school as a room-parent and working with the PTA.
