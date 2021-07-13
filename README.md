@@ -22,7 +22,7 @@ In my portfolio, you can find the 'About Me' page is the first page you will see
 
 * GitHub: [CFox2019](https://github.com/CFox2019)
 * GitHub:  [Portfolio-React-Edition](https://github.com/CFox2019/Portfolio-React-Edition)
-* gh-pages: [Portfolio-React-Edition] (https://cfox2019.github.io/Portfolio-React-Edition/)
+* gh-pages: [Portfolio-React-Edition](https://cfox2019.github.io/Portfolio-React-Edition/)
 * LinkedIn: [cdfox](https://www.linkedin.com/in/cdfox/)
 
 ## Installation
