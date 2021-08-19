@@ -5,4 +5,10 @@
 
 .project-link {
   color: #e5cace;
+  font-size: 1.5em;
+}
+
+.image-thumbnail {
+  height: 200px;
+  border-radius: 10px;
 }

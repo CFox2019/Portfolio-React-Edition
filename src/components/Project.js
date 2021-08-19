@@ -1,4 +1,5 @@
 import React from "react";
+import "../components/css/Project.css";
 
 function Project(props) {
   return (
@@ -9,7 +10,7 @@ function Project(props) {
         <a className="project-link" href={props.githubLink}> GitHub Repository</a>
       </div>
       <a href={props.deployedLink}>
-        <img src={props.img} width="350" className="img-responsive image-thumbnail" alt="Portfolio Project" />
+        <img src={props.img} className="img-responsive image-thumbnail" alt="Portfolio Project" />
       </a>
     </div>
   )
