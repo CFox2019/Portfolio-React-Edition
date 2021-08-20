@@ -10,14 +10,16 @@ function AboutMe() {
           <img src={me} alt="profile" className="img-thumbnail rounded about-me-img" />
         </Col>
         <Col size="md-9" className="about-me-p">
-          I’m an experienced leader turned front-end web engineer returning
-          to the workforce after pausing my career to stay at home with
-          my family. I’ve spent the last few years volunteering at my
-          children’s school as a room-parent and working with the PTA.
-          I’m excited to re-enter the workforce and utilize my organizational,
-          collaboration, and new found web development skills to help
-          deliver products/features that drive business and consumer value.
-          I’d love to chat about any opportunities you may have.
+        Hard-working, detail oriented and organized Front-End Developer
+        with a passion to create and solve problems, whether independently
+        or collaboratively. Successfully completed and earned a certificate
+        in Full-Stack Web Development from Georgia Institute of Technology,
+        as well as Front End Development and Intro to Programming from Udacity.
+        My knowledge lies in JavaScript, React, and styling. Previously worked
+        as team leader at a major retailer, allowing collaboration with others
+        and managing time/deadlines. Looking forward to a role to collaborate
+        with others and contribute to, learn and be challenged, and continue
+        to grow skills.
         </Col>
       </>
   )
