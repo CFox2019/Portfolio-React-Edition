@@ -15,11 +15,11 @@ function AboutMe() {
         or collaboratively. Successfully completed and earned a certificate
         in Full-Stack Web Development from Georgia Institute of Technology,
         as well as Front End Development and Intro to Programming from Udacity.
-        My knowledge lies in JavaScript, React, and styling. Previously worked
-        as team leader at a major retailer, allowing collaboration with others
-        and managing time/deadlines. Looking forward to a role to collaborate
-        with others and contribute to, learn and be challenged, and continue
-        to grow skills.
+        My knowledge lies in JavaScript, React, CSS, HTML, Node JS, Express,
+        and Bootstrap. Previously worked as team leader at a major retailer,
+        allowing collaboration with others and managing time/deadlines. Looking
+        forward to a role to collaborate with others and contribute to, learn
+        and be challenged, and continue to grow skills.
         </Col>
       </>
   )
