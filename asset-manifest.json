@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-Edition/static/css/main.540af5c0.chunk.css",
-    "main.js": "/Portfolio-React-Edition/static/js/main.8d003e84.chunk.js",
-    "main.js.map": "/Portfolio-React-Edition/static/js/main.8d003e84.chunk.js.map",
+    "main.css": "/Portfolio-React-Edition/static/css/main.f68b3efb.chunk.css",
+    "main.js": "/Portfolio-React-Edition/static/js/main.5ef8114b.chunk.js",
+    "main.js.map": "/Portfolio-React-Edition/static/js/main.5ef8114b.chunk.js.map",
     "runtime-main.js": "/Portfolio-React-Edition/static/js/runtime-main.d6f2ffed.js",
     "runtime-main.js.map": "/Portfolio-React-Edition/static/js/runtime-main.d6f2ffed.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio-React-Edition/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2199b880.chunk.js": "/Portfolio-React-Edition/static/js/2.2199b880.chunk.js",
-    "static/js/2.2199b880.chunk.js.map": "/Portfolio-React-Edition/static/js/2.2199b880.chunk.js.map",
+    "static/js/2.bbe5bf28.chunk.js": "/Portfolio-React-Edition/static/js/2.bbe5bf28.chunk.js",
+    "static/js/2.bbe5bf28.chunk.js.map": "/Portfolio-React-Edition/static/js/2.bbe5bf28.chunk.js.map",
     "index.html": "/Portfolio-React-Edition/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio-React-Edition/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.540af5c0.chunk.css.map": "/Portfolio-React-Edition/static/css/main.540af5c0.chunk.css.map",
-    "static/js/2.2199b880.chunk.js.LICENSE.txt": "/Portfolio-React-Edition/static/js/2.2199b880.chunk.js.LICENSE.txt",
-    "static/media/courtney-resume-updated.47d048d1.pdf": "/Portfolio-React-Edition/static/media/courtney-resume-updated.47d048d1.pdf",
+    "static/css/main.f68b3efb.chunk.css.map": "/Portfolio-React-Edition/static/css/main.f68b3efb.chunk.css.map",
+    "static/js/2.bbe5bf28.chunk.js.LICENSE.txt": "/Portfolio-React-Edition/static/js/2.bbe5bf28.chunk.js.LICENSE.txt",
+    "static/media/courtney-fox-resume.9c039822.pdf": "/Portfolio-React-Edition/static/media/courtney-fox-resume.9c039822.pdf",
     "static/media/dragonfly-horoscopes.04a7f89e.png": "/Portfolio-React-Edition/static/media/dragonfly-horoscopes.04a7f89e.png",
     "static/media/fit-connect.55d1ce6b.png": "/Portfolio-React-Edition/static/media/fit-connect.55d1ce6b.png",
     "static/media/image.5c66c300.jpeg": "/Portfolio-React-Edition/static/media/image.5c66c300.jpeg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.d6f2ffed.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2199b880.chunk.js",
-    "static/css/main.540af5c0.chunk.css",
-    "static/js/main.8d003e84.chunk.js"
+    "static/js/2.bbe5bf28.chunk.js",
+    "static/css/main.f68b3efb.chunk.css",
+    "static/js/main.5ef8114b.chunk.js"
   ]
 }
