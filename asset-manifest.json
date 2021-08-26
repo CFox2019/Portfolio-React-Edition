@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-Edition/static/css/main.f68b3efb.chunk.css",
-    "main.js": "/Portfolio-React-Edition/static/js/main.5ef8114b.chunk.js",
-    "main.js.map": "/Portfolio-React-Edition/static/js/main.5ef8114b.chunk.js.map",
+    "main.css": "/Portfolio-React-Edition/static/css/main.9a6cded5.chunk.css",
+    "main.js": "/Portfolio-React-Edition/static/js/main.9db0f7ff.chunk.js",
+    "main.js.map": "/Portfolio-React-Edition/static/js/main.9db0f7ff.chunk.js.map",
     "runtime-main.js": "/Portfolio-React-Edition/static/js/runtime-main.d6f2ffed.js",
     "runtime-main.js.map": "/Portfolio-React-Edition/static/js/runtime-main.d6f2ffed.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio-React-Edition/static/css/2.4c97ca4f.chunk.css",
@@ -10,22 +10,22 @@
     "static/js/2.bbe5bf28.chunk.js.map": "/Portfolio-React-Edition/static/js/2.bbe5bf28.chunk.js.map",
     "index.html": "/Portfolio-React-Edition/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio-React-Edition/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f68b3efb.chunk.css.map": "/Portfolio-React-Edition/static/css/main.f68b3efb.chunk.css.map",
+    "static/css/main.9a6cded5.chunk.css.map": "/Portfolio-React-Edition/static/css/main.9a6cded5.chunk.css.map",
     "static/js/2.bbe5bf28.chunk.js.LICENSE.txt": "/Portfolio-React-Edition/static/js/2.bbe5bf28.chunk.js.LICENSE.txt",
     "static/media/courtney-fox-resume.9c039822.pdf": "/Portfolio-React-Edition/static/media/courtney-fox-resume.9c039822.pdf",
-    "static/media/dragonfly-horoscopes.04a7f89e.png": "/Portfolio-React-Edition/static/media/dragonfly-horoscopes.04a7f89e.png",
-    "static/media/fit-connect.55d1ce6b.png": "/Portfolio-React-Edition/static/media/fit-connect.55d1ce6b.png",
+    "static/media/dragonfly-horoscopes-portfolio.a94bd46c.png": "/Portfolio-React-Edition/static/media/dragonfly-horoscopes-portfolio.a94bd46c.png",
+    "static/media/fit-connect-portfolio.59ce1295.png": "/Portfolio-React-Edition/static/media/fit-connect-portfolio.59ce1295.png",
     "static/media/image.5c66c300.jpeg": "/Portfolio-React-Edition/static/media/image.5c66c300.jpeg",
-    "static/media/shop-your-pantry.2c241ab1.png": "/Portfolio-React-Edition/static/media/shop-your-pantry.2c241ab1.png",
-    "static/media/the-tech-blog.f5df4a4e.png": "/Portfolio-React-Edition/static/media/the-tech-blog.f5df4a4e.png",
-    "static/media/weather-dashboard.d1ec1143.png": "/Portfolio-React-Edition/static/media/weather-dashboard.d1ec1143.png",
-    "static/media/work-day-scheduler.4d6babdd.png": "/Portfolio-React-Edition/static/media/work-day-scheduler.4d6babdd.png"
+    "static/media/shop-your-pantry-portfolio.ffc0eade.png": "/Portfolio-React-Edition/static/media/shop-your-pantry-portfolio.ffc0eade.png",
+    "static/media/the-tech-blog-portfolio.c59f34bc.png": "/Portfolio-React-Edition/static/media/the-tech-blog-portfolio.c59f34bc.png",
+    "static/media/weather-dashboard-portfolio.adef3bab.png": "/Portfolio-React-Edition/static/media/weather-dashboard-portfolio.adef3bab.png",
+    "static/media/work-day-scheduler-portfolio.3f51c38d.png": "/Portfolio-React-Edition/static/media/work-day-scheduler-portfolio.3f51c38d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d6f2ffed.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.bbe5bf28.chunk.js",
-    "static/css/main.f68b3efb.chunk.css",
-    "static/js/main.5ef8114b.chunk.js"
+    "static/css/main.9a6cded5.chunk.css",
+    "static/js/main.9db0f7ff.chunk.js"
   ]
 }
