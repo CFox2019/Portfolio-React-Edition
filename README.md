@@ -24,7 +24,7 @@ In my portfolio, you can find the 'About Me' page is the first page you will see
 * GitHub:  [Portfolio-React-Edition](https://github.com/CFox2019/Portfolio-React-Edition)
 * gh-pages: [Portfolio-React-Edition](https://cfox2019.github.io/Portfolio-React-Edition/)
 * LinkedIn: [cdfox](https://www.linkedin.com/in/cdfox/)
-* [Resume](activities/20-State/02-Homework/Portfolio-React-Edition/src/assets/courtney-fox-resume.pdf)
+* [Resume](src/assets/courtney-fox-resume.pdf)
 
 ## Installation
 
