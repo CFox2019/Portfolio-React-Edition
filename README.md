@@ -15,8 +15,8 @@ In my portfolio, you can find the 'About Me' page is the first page you will see
 
 ### Screenshots
 
-![Portfolio-About Me](src/assets/portfolio.png)
-![Portfolio](src/assets/portfolio2.png)
+![Portfolio-About Me](./src/assets/portfolio-about.png)
+![Portfolio](./src/assets/portfolio-projects.png)
 
 ## Links
 
